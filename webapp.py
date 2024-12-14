@@ -34,7 +34,7 @@ def predict_digit(model, image):
     return predicted_digit
 
 # Streamlit UI
-st.title('Handwritten Digit Recognition')
+st.title('Handwritten Digit Recognition App')
 
 st.write("Draw a digit in the box below:")
 
